@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E244QOz2xSs1te15Capzg5P7caCGGMnOrsbHPFjZcQS78FGzdZuPOAbJ4saOP4g6x/R/D7eJkyUNdiULz1wImQ==",
+  "success": true,
+  "projectFilePath": "/Users/alanprates/CSharp-UnitTesting-Activities/Atividade02/Atividade02.csproj",
+  "expectedPackageFiles": [
+    "/Users/alanprates/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/alanprates/.nuget/packages/nsubstitute/5.1.0/nsubstitute.5.1.0.nupkg.sha512",
+    "/Users/alanprates/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

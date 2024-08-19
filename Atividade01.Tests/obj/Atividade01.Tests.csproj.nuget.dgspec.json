@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alanprates/CSharp-UnitTesting-Activities/Atividade01.Tests/Atividade01.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/alanprates/CSharp-UnitTesting-Activities/Atividade01.Tests/Atividade01.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alanprates/CSharp-UnitTesting-Activities/Atividade01.Tests/Atividade01.Tests.csproj",
+        "projectName": "Atividade01.Tests",
+        "projectPath": "/Users/alanprates/CSharp-UnitTesting-Activities/Atividade01.Tests/Atividade01.Tests.csproj",
+        "packagesPath": "/Users/alanprates/.nuget/packages/",
+        "outputPath": "/Users/alanprates/CSharp-UnitTesting-Activities/Atividade01.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alanprates/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/alanprates/CSharp-UnitTesting-Activities/Atividade01/Atividade01.csproj": {
+                "projectPath": "/Users/alanprates/CSharp-UnitTesting-Activities/Atividade01/Atividade01.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alanprates/CSharp-UnitTesting-Activities/Atividade01/Atividade01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alanprates/CSharp-UnitTesting-Activities/Atividade01/Atividade01.csproj",
+        "projectName": "Atividade01",
+        "projectPath": "/Users/alanprates/CSharp-UnitTesting-Activities/Atividade01/Atividade01.csproj",
+        "packagesPath": "/Users/alanprates/.nuget/packages/",
+        "outputPath": "/Users/alanprates/CSharp-UnitTesting-Activities/Atividade01/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alanprates/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
